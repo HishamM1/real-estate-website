@@ -1,7 +1,7 @@
 # Larazillow
 A real estate website that a realtor can list his property and another user or realtor can submit an offer to buy it.
 
-![](larazillow.mkv)
+![](larazillow.gif)
 
 # Basic Features
 * User can Register and need email verification.
